@@ -10,6 +10,6 @@ Part 4 – Case Studies [10 points] >> 12th - 18th May
 All check points and report >> 19th - 21st May
 
 
-link: https://drive.google.com/file/d/1rkJpU1syooFImwFBKh5TVthVqPYBI8ps/view
+link to download: https://drive.google.com/file/d/1rkJpU1syooFImwFBKh5TVthVqPYBI8ps/view
 
 The original dataset was 856Mb and cannot be uploaded in whole to github.
